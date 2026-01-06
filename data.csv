@@ -1,0 +1,21 @@
+employee_id,name,department,age,salary,join_date,performance_score,city,projects_completed,is_remote
+101,John Smith,Engineering,28,75000,2020-03-15,8.5,New York,12,True
+102,Emma Johnson,Marketing,34,65000,2019-07-22,9.2,Los Angeles,8,False
+103,Michael Brown,Engineering,42,95000,2018-01-10,7.8,Chicago,15,True
+104,Sarah Davis,HR,29,55000,2021-06-01,8.9,Houston,5,False
+105,James Wilson,Sales,31,70000,2020-11-20,9.5,Phoenix,20,True
+106,Linda Martinez,Engineering,38,85000,2019-03-14,8.1,Philadelphia,11,True
+107,Robert Taylor,Marketing,45,72000,2017-09-05,7.5,San Antonio,9,False
+108,Maria Garcia,Sales,27,62000,2021-02-18,9.0,San Diego,18,True
+109,David Anderson,HR,33,58000,2020-08-12,8.3,Dallas,6,False
+110,Jennifer Thomas,Engineering,36,88000,2018-12-03,8.7,San Jose,14,True
+111,William Moore,Marketing,40,68000,2019-05-27,7.9,Austin,7,False
+112,Elizabeth Lee,Sales,26,60000,2022-01-09,9.3,Jacksonville,16,True
+113,Christopher White,Engineering,44,98000,2017-04-16,8.4,San Francisco,17,True
+114,Jessica Harris,HR,30,56000,2020-10-30,8.6,,4,False
+115,Daniel Clark,Sales,35,73000,2019-08-19,9.1,Seattle,19,True
+116,Nancy Lewis,Marketing,32,,2021-03-25,7.6,Denver,10,False
+117,Matthew Walker,Engineering,39,90000,2018-07-11,8.8,Boston,13,True
+118,Betty Hall,Sales,28,64000,2020-12-05,9.4,Portland,21,True
+119,Joshua Allen,HR,31,57000,2021-09-14,8.2,Las Vegas,5,False
+120,Sandra Young,Engineering,37,87000,2019-02-20,,Columbus,12,True
