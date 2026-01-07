@@ -1,0 +1,201 @@
+order_id,customer_id,customer_name,product_name,category,sub_category,quantity,unit_price,total_amount,discount_percent,order_date,ship_date,ship_mode,region,state,city,customer_segment,payment_method,profit,sales_channel,returned
+1001,C001,Alice Williams,Laptop,Electronics,Computers,1,899.99,899.99,10,2023-01-15,2023-01-18,Express,East,New York,New York,Consumer,Credit Card,179.99,Online,False
+1002,C002,Bob Johnson,Office Chair,Furniture,Chairs,2,149.99,299.98,5,2023-01-16,2023-01-20,Standard,West,California,Los Angeles,Corporate,Debit Card,44.99,Store,False
+1003,C003,Carol Smith,Wireless Mouse,Electronics,Accessories,3,25.99,77.97,0,2023-01-17,2023-01-19,Express,Central,Illinois,Chicago,Home Office,PayPal,15.59,Online,False
+1004,C004,David Brown,Standing Desk,Furniture,Desks,1,449.99,449.99,15,2023-01-18,2023-01-22,Standard,South,Texas,Houston,Consumer,Credit Card,89.99,Online,False
+1005,C002,Bob Johnson,Notebook Set,Office Supplies,Paper,5,12.99,64.95,0,2023-01-19,2023-01-21,Standard,West,California,Los Angeles,Corporate,Debit Card,19.48,Store,False
+1006,C005,Emma Davis,Monitor 27inch,Electronics,Computers,1,299.99,299.99,20,2023-01-20,2023-01-23,Express,East,Massachusetts,Boston,Consumer,Credit Card,59.99,Online,False
+1007,C006,Frank Miller,Desk Lamp,Furniture,Lighting,2,39.99,79.98,10,2023-01-21,2023-01-24,Standard,West,Washington,Seattle,Home Office,PayPal,15.99,Online,False
+1008,C007,Grace Lee,Printer Ink,Office Supplies,Printing,4,29.99,119.96,5,2023-01-22,2023-01-25,Standard,Central,Ohio,Columbus,Consumer,Credit Card,23.99,Store,False
+1009,C008,Henry Taylor,Smartphone,Electronics,Mobile,1,699.99,699.99,12,2023-01-23,2023-01-26,Express,South,Florida,Miami,Consumer,Credit Card,139.99,Online,False
+1010,C009,Isabel Martinez,Bookshelf,Furniture,Storage,1,189.99,189.99,8,2023-01-24,2023-01-28,Standard,East,Pennsylvania,Philadelphia,Home Office,Debit Card,37.99,Store,False
+1011,C010,Jack Anderson,Keyboard Mechanical,Electronics,Accessories,2,89.99,179.98,10,2023-01-25,2023-01-27,Express,West,Oregon,Portland,Consumer,PayPal,35.99,Online,False
+1012,C001,Alice Williams,Paper Clips,Office Supplies,Organizers,10,2.99,29.90,0,2023-01-26,2023-01-29,Standard,East,New York,New York,Consumer,Credit Card,8.97,Store,False
+1013,C011,Kate Wilson,Tablet 10inch,Electronics,Mobile,1,399.99,399.99,15,2023-01-27,2023-01-30,Express,Central,Michigan,Detroit,Corporate,Credit Card,79.99,Online,False
+1014,C012,Liam Thompson,Executive Chair,Furniture,Chairs,1,299.99,299.99,10,2023-01-28,2023-02-01,Standard,South,Georgia,Atlanta,Corporate,Debit Card,59.99,Store,False
+1015,C013,Mia Garcia,Stapler,Office Supplies,Organizers,3,8.99,26.97,0,2023-01-29,2023-01-31,Standard,West,Nevada,Las Vegas,Home Office,PayPal,5.39,Store,False
+1016,C014,Noah Rodriguez,Webcam HD,Electronics,Accessories,1,79.99,79.99,5,2023-01-30,2023-02-02,Express,East,New Jersey,Newark,Consumer,Credit Card,15.99,Online,False
+1017,C015,Olivia Martinez,File Cabinet,Furniture,Storage,1,159.99,159.99,12,2023-01-31,2023-02-03,Standard,Central,Minnesota,Minneapolis,Corporate,Debit Card,31.99,Store,False
+1018,C003,Carol Smith,USB Flash Drive,Electronics,Accessories,5,15.99,79.95,0,2023-02-01,2023-02-03,Standard,Central,Illinois,Chicago,Home Office,PayPal,15.99,Online,False
+1019,C016,Peter Lopez,Whiteboard,Office Supplies,Presentation,1,89.99,89.99,10,2023-02-02,2023-02-05,Standard,South,North Carolina,Charlotte,Corporate,Credit Card,17.99,Store,False
+1020,C017,Quinn Harris,Laptop Bag,Electronics,Accessories,2,49.99,99.98,5,2023-02-03,2023-02-06,Express,West,Colorado,Denver,Consumer,Debit Card,19.99,Online,False
+1021,C018,Rachel Clark,Pen Set,Office Supplies,Writing,8,5.99,47.92,0,2023-02-04,2023-02-07,Standard,East,Virginia,Richmond,Home Office,PayPal,9.58,Store,False
+1022,C019,Sam Lewis,Gaming Mouse,Electronics,Accessories,1,59.99,59.99,15,2023-02-05,2023-02-08,Express,Central,Wisconsin,Milwaukee,Consumer,Credit Card,11.99,Online,False
+1023,C020,Tina Walker,Conference Table,Furniture,Tables,1,799.99,799.99,20,2023-02-06,2023-02-10,Standard,South,Tennessee,Nashville,Corporate,Credit Card,159.99,Store,False
+1024,C005,Emma Davis,Headphones,Electronics,Accessories,1,129.99,129.99,10,2023-02-07,2023-02-09,Express,East,Massachusetts,Boston,Consumer,PayPal,25.99,Online,False
+1025,C021,Uma Robinson,Desk Organizer,Office Supplies,Organizers,4,19.99,79.96,5,2023-02-08,2023-02-11,Standard,West,Arizona,Phoenix,Home Office,Debit Card,15.99,Store,False
+1026,C022,Victor Young,Monitor Stand,Furniture,Accessories,2,34.99,69.98,0,2023-02-09,2023-02-12,Standard,Central,Indiana,Indianapolis,Consumer,Credit Card,13.99,Online,False
+1027,C023,Wendy Hall,Scanner,Electronics,Printing,1,199.99,199.99,12,2023-02-10,2023-02-13,Express,East,Maryland,Baltimore,Corporate,Debit Card,39.99,Store,False
+1028,C024,Xavier Allen,Folders,Office Supplies,Organizers,12,3.99,47.88,0,2023-02-11,2023-02-14,Standard,South,Louisiana,New Orleans,Home Office,PayPal,9.57,Store,False
+1029,C025,Yara King,Ergonomic Keyboard,Electronics,Accessories,1,119.99,119.99,10,2023-02-12,2023-02-15,Express,West,Utah,Salt Lake City,Consumer,Credit Card,23.99,Online,False
+1030,C026,Zack Wright,Sofa,Furniture,Seating,1,599.99,599.99,15,2023-02-13,2023-02-17,Standard,Central,Missouri,Kansas City,Consumer,Debit Card,119.99,Store,False
+1031,C001,Alice Williams,External SSD,Electronics,Storage,1,149.99,149.99,8,2023-02-14,2023-02-16,Express,East,New York,New York,Consumer,Credit Card,29.99,Online,False
+1032,C027,Betty Scott,Markers,Office Supplies,Writing,6,7.99,47.94,0,2023-02-15,2023-02-18,Standard,South,Oklahoma,Oklahoma City,Home Office,PayPal,9.58,Store,False
+1033,C028,Chris Green,Tablet Case,Electronics,Accessories,2,29.99,59.98,5,2023-02-16,2023-02-19,Standard,West,New Mexico,Albuquerque,Consumer,Debit Card,11.99,Online,False
+1034,C029,Diana Adams,Bookcase,Furniture,Storage,1,249.99,249.99,10,2023-02-17,2023-02-21,Standard,East,Connecticut,Hartford,Corporate,Credit Card,49.99,Store,False
+1035,C030,Eric Baker,Calculator,Office Supplies,Tools,3,24.99,74.97,0,2023-02-18,2023-02-21,Standard,Central,Iowa,Des Moines,Home Office,PayPal,14.99,Store,False
+1036,C008,Henry Taylor,Smart Watch,Electronics,Wearables,1,299.99,299.99,15,2023-02-19,2023-02-22,Express,South,Florida,Miami,Consumer,Credit Card,59.99,Online,False
+1037,C031,Fiona Carter,Desk Mat,Office Supplies,Accessories,2,15.99,31.98,0,2023-02-20,2023-02-23,Standard,West,Idaho,Boise,Consumer,Debit Card,6.39,Online,False
+1038,C032,George Mitchell,Office Phone,Electronics,Communication,1,89.99,89.99,10,2023-02-21,2023-02-24,Standard,East,Maine,Portland,Corporate,Credit Card,17.99,Store,False
+1039,C033,Hannah Perez,Corner Desk,Furniture,Desks,1,349.99,349.99,12,2023-02-22,2023-02-26,Standard,Central,Kansas,Wichita,Home Office,PayPal,69.99,Online,False
+1040,C034,Ian Roberts,Cable Organizer,Office Supplies,Organizers,5,9.99,49.95,0,2023-02-23,2023-02-26,Standard,South,Arkansas,Little Rock,Consumer,Debit Card,9.99,Store,False
+1041,C035,Julia Turner,Projector,Electronics,Presentation,1,499.99,499.99,20,2023-02-24,2023-02-28,Express,West,Montana,Billings,Corporate,Credit Card,99.99,Online,True
+1042,C036,Kevin Phillips,Highlighters,Office Supplies,Writing,10,4.99,49.90,0,2023-02-25,2023-02-28,Standard,East,New Hampshire,Manchester,Home Office,PayPal,9.98,Store,False
+1043,C002,Bob Johnson,Mouse Pad,Electronics,Accessories,4,12.99,51.96,5,2023-02-26,2023-03-01,Standard,West,California,Los Angeles,Corporate,Credit Card,10.39,Online,False
+1044,C037,Laura Campbell,Filing Tray,Office Supplies,Organizers,3,14.99,44.97,0,2023-02-27,2023-03-02,Standard,Central,Nebraska,Omaha,Consumer,Debit Card,8.99,Store,False
+1045,C038,Mike Parker,Bluetooth Speaker,Electronics,Audio,1,79.99,79.99,10,2023-02-28,2023-03-03,Express,South,Mississippi,Jackson,Consumer,PayPal,15.99,Online,False
+1046,C039,Nancy Evans,Magazine Rack,Furniture,Storage,1,39.99,39.99,5,2023-03-01,2023-03-04,Standard,East,Vermont,Burlington,Home Office,Credit Card,7.99,Store,False
+1047,C040,Oscar Edwards,Label Maker,Office Supplies,Tools,1,49.99,49.99,8,2023-03-02,2023-03-05,Standard,West,Wyoming,Cheyenne,Corporate,Debit Card,9.99,Online,False
+1048,C013,Mia Garcia,Laptop Stand,Electronics,Accessories,1,44.99,44.99,0,2023-03-03,2023-03-06,Standard,West,Nevada,Las Vegas,Home Office,PayPal,8.99,Store,False
+1049,C041,Paula Collins,Bulletin Board,Office Supplies,Presentation,2,29.99,59.98,10,2023-03-04,2023-03-07,Standard,Central,South Dakota,Sioux Falls,Consumer,Credit Card,11.99,Store,False
+1050,C042,Quincy Stewart,Graphics Card,Electronics,Computers,1,399.99,399.99,15,2023-03-05,2023-03-08,Express,East,Rhode Island,Providence,Consumer,Debit Card,79.99,Online,False
+1051,C043,Rita Sanchez,Paper Shredder,Office Supplies,Tools,1,129.99,129.99,12,2023-03-06,2023-03-10,Standard,South,Alabama,Birmingham,Corporate,PayPal,25.99,Store,False
+1052,C044,Steve Morris,HDMI Cable,Electronics,Accessories,3,14.99,44.97,0,2023-03-07,2023-03-09,Standard,West,Alaska,Anchorage,Consumer,Credit Card,8.99,Online,False
+1053,C045,Tara Rogers,Trash Can,Office Supplies,Accessories,2,24.99,49.98,5,2023-03-08,2023-03-11,Standard,Central,North Dakota,Fargo,Home Office,Debit Card,9.99,Store,False
+1054,C046,Umar Reed,RAM 16GB,Electronics,Computers,2,79.99,159.98,10,2023-03-09,2023-03-12,Express,East,Delaware,Wilmington,Consumer,PayPal,31.99,Online,False
+1055,C047,Vera Cook,Desk Calendar,Office Supplies,Planning,4,9.99,39.96,0,2023-03-10,2023-03-13,Standard,South,Kentucky,Louisville,Consumer,Credit Card,7.99,Store,False
+1056,C048,Wade Morgan,Power Bank,Electronics,Accessories,2,39.99,79.98,8,2023-03-11,2023-03-14,Standard,West,Hawaii,Honolulu,Consumer,Debit Card,15.99,Online,False
+1057,C049,Xena Bailey,Guest Chair,Furniture,Chairs,3,89.99,269.97,10,2023-03-12,2023-03-16,Standard,Central,West Virginia,Charleston,Corporate,Credit Card,53.99,Store,False
+1058,C050,Yusuf Rivera,Surge Protector,Electronics,Accessories,4,19.99,79.96,0,2023-03-13,2023-03-16,Standard,East,South Carolina,Columbia,Home Office,PayPal,15.99,Online,False
+1059,C005,Emma Davis,Wireless Charger,Electronics,Accessories,1,34.99,34.99,5,2023-03-14,2023-03-17,Express,East,Massachusetts,Boston,Consumer,Credit Card,6.99,Online,False
+1060,C051,Zoe Cooper,Clipboard,Office Supplies,Organizers,6,6.99,41.94,0,2023-03-15,2023-03-18,Standard,South,Virginia,Norfolk,Home Office,Debit Card,8.38,Store,False
+1061,C052,Aaron Richardson,Monitor 32inch,Electronics,Computers,1,449.99,449.99,18,2023-03-16,2023-03-19,Express,West,California,San Francisco,Consumer,PayPal,89.99,Online,False
+1062,C053,Bella Cox,Sticky Notes,Office Supplies,Paper,15,3.99,59.85,0,2023-03-17,2023-03-20,Standard,Central,Illinois,Springfield,Consumer,Credit Card,11.97,Store,False
+1063,C054,Carl Howard,Docking Station,Electronics,Accessories,1,159.99,159.99,12,2023-03-18,2023-03-21,Express,East,New York,Buffalo,Corporate,Debit Card,31.99,Online,False
+1064,C055,Dora Ward,Mesh Chair,Furniture,Chairs,1,199.99,199.99,10,2023-03-19,2023-03-23,Standard,South,Texas,Austin,Home Office,PayPal,39.99,Store,False
+1065,C056,Ethan Torres,Tape Dispenser,Office Supplies,Organizers,5,7.99,39.95,0,2023-03-20,2023-03-23,Standard,West,Oregon,Salem,Consumer,Credit Card,7.99,Store,False
+1066,C057,Faith Peterson,USB Hub,Electronics,Accessories,2,29.99,59.98,5,2023-03-21,2023-03-24,Standard,Central,Ohio,Cleveland,Consumer,Debit Card,11.99,Online,False
+1067,C058,Gary Gray,Footrest,Furniture,Accessories,1,49.99,49.99,8,2023-03-22,2023-03-25,Standard,East,Pennsylvania,Pittsburgh,Home Office,PayPal,9.99,Store,False
+1068,C059,Helen Ramirez,Toner Cartridge,Office Supplies,Printing,2,69.99,139.98,10,2023-03-23,2023-03-27,Standard,South,Georgia,Savannah,Corporate,Credit Card,27.99,Store,False
+1069,C060,Ivan James,Cooling Pad,Electronics,Accessories,1,24.99,24.99,0,2023-03-24,2023-03-27,Standard,West,Washington,Spokane,Consumer,Debit Card,4.99,Online,False
+1070,C008,Henry Taylor,Smart Speaker,Electronics,Audio,2,99.99,199.98,15,2023-03-25,2023-03-28,Express,South,Florida,Tampa,Consumer,PayPal,39.99,Online,False
+1071,C061,Jane Watson,Paper Tray,Office Supplies,Organizers,3,12.99,38.97,0,2023-03-26,2023-03-29,Standard,Central,Michigan,Grand Rapids,Home Office,Credit Card,7.79,Store,False
+1072,C062,Kyle Brooks,Webcam 4K,Electronics,Accessories,1,149.99,149.99,12,2023-03-27,2023-03-30,Express,East,Massachusetts,Worcester,Corporate,Debit Card,29.99,Online,False
+1073,C063,Lisa Kelly,L-Shaped Desk,Furniture,Desks,1,499.99,499.99,15,2023-03-28,2023-04-01,Standard,West,California,San Diego,Consumer,Credit Card,99.99,Store,False
+1074,C064,Mark Sanders,Envelopes,Office Supplies,Paper,20,2.99,59.80,0,2023-03-29,2023-04-01,Standard,South,North Carolina,Raleigh,Home Office,PayPal,11.96,Store,False
+1075,C065,Nina Price,Gaming Headset,Electronics,Accessories,1,89.99,89.99,10,2023-03-30,2023-04-02,Express,Central,Wisconsin,Madison,Consumer,Debit Card,17.99,Online,False
+1076,C066,Owen Bennett,Coat Rack,Furniture,Accessories,1,59.99,59.99,5,2023-03-31,2023-04-03,Standard,East,New Jersey,Jersey City,Corporate,Credit Card,11.99,Store,False
+1077,C067,Pam Wood,Binding Machine,Office Supplies,Tools,1,79.99,79.99,8,2023-04-01,2023-04-04,Standard,South,Tennessee,Memphis,Corporate,PayPal,15.99,Online,False
+1078,C068,Quinn Barnes,SSD 1TB,Electronics,Storage,1,119.99,119.99,10,2023-04-02,2023-04-05,Express,West,Colorado,Aurora,Consumer,Credit Card,23.99,Online,False
+1079,C069,Rose Ross,Desk Drawer,Furniture,Storage,2,39.99,79.98,0,2023-04-03,2023-04-06,Standard,Central,Indiana,Fort Wayne,Home Office,Debit Card,15.99,Store,False
+1080,C070,Sean Henderson,Correction Tape,Office Supplies,Writing,8,4.99,39.92,0,2023-04-04,2023-04-07,Standard,East,Virginia,Virginia Beach,Consumer,PayPal,7.98,Store,False
+1081,C071,Tanya Coleman,Fitness Tracker,Electronics,Wearables,1,129.99,129.99,12,2023-04-05,2023-04-08,Express,South,Florida,Orlando,Consumer,Credit Card,25.99,Online,False
+1082,C072,Uriel Jenkins,Wall Clock,Office Supplies,Accessories,2,19.99,39.98,5,2023-04-06,2023-04-09,Standard,West,Nevada,Henderson,Home Office,Debit Card,7.99,Store,False
+1083,C073,Vicky Perry,Microphone USB,Electronics,Audio,1,69.99,69.99,10,2023-04-07,2023-04-10,Express,Central,Missouri,St. Louis,Consumer,PayPal,13.99,Online,False
+1084,C074,Will Powell,Storage Cabinet,Furniture,Storage,1,299.99,299.99,15,2023-04-08,2023-04-12,Standard,East,Maryland,Frederick,Corporate,Credit Card,59.99,Store,False
+1085,C075,Xyla Long,Hole Punch,Office Supplies,Tools,4,9.99,39.96,0,2023-04-09,2023-04-12,Standard,South,Louisiana,Baton Rouge,Home Office,Debit Card,7.99,Store,False
+1086,C001,Alice Williams,Mechanical Pencil,Office Supplies,Writing,6,6.99,41.94,0,2023-04-10,2023-04-13,Standard,East,New York,New York,Consumer,PayPal,8.38,Store,False
+1087,C076,Yara Patterson,Ethernet Cable,Electronics,Accessories,5,11.99,59.95,5,2023-04-11,2023-04-14,Standard,West,Arizona,Tucson,Consumer,Credit Card,11.99,Online,False
+1088,C077,Zane Hughes,Gaming Chair,Furniture,Chairs,1,349.99,349.99,18,2023-04-12,2023-04-16,Standard,Central,Minnesota,St. Paul,Consumer,Debit Card,69.99,Online,False
+1089,C078,Amy Flores,Index Cards,Office Supplies,Paper,10,3.99,39.90,0,2023-04-13,2023-04-16,Standard,South,Oklahoma,Tulsa,Home Office,PayPal,7.98,Store,False
+1090,C079,Ben Washington,Portable Monitor,Electronics,Computers,1,199.99,199.99,12,2023-04-14,2023-04-17,Express,East,Pennsylvania,Allentown,Consumer,Credit Card,39.99,Online,False
+1091,C080,Cara Butler,Side Table,Furniture,Tables,1,89.99,89.99,8,2023-04-15,2023-04-18,Standard,West,New Mexico,Las Cruces,Home Office,Debit Card,17.99,Store,False
+1092,C081,Dean Simmons,Planner,Office Supplies,Planning,3,14.99,44.97,0,2023-04-16,2023-04-19,Standard,Central,Iowa,Cedar Rapids,Consumer,PayPal,8.99,Store,False
+1093,C082,Ella Foster,Noise Cancelling Headphones,Electronics,Audio,1,249.99,249.99,15,2023-04-17,2023-04-20,Express,South,Georgia,Columbus,Consumer,Credit Card,49.99,Online,False
+1094,C083,Fred Gonzalez,Document Holder,Office Supplies,Organizers,2,16.99,33.98,5,2023-04-18,2023-04-21,Standard,West,Utah,West Valley City,Home Office,Debit Card,6.79,Store,False
+1095,C084,Gina Bryant,VR Headset,Electronics,Gaming,1,399.99,399.99,20,2023-04-19,2023-04-23,Express,East,New York,Rochester,Consumer,PayPal,79.99,Online,True
+1096,C085,Hugo Alexander,Folding Chair,Furniture,Chairs,4,49.99,199.96,10,2023-04-20,2023-04-24,Standard,Central,Ohio,Toledo,Corporate,Credit Card,39.99,Store,False
+1097,C086,Iris Russell,Binder Clips,Office Supplies,Organizers,12,2.99,35.88,0,2023-04-21,2023-04-24,Standard,South,Arkansas,Fort Smith,Home Office,Debit Card,7.17,Store,False
+1098,C087,Jake Griffin,Portable SSD,Electronics,Storage,1,179.99,179.99,12,2023-04-22,2023-04-25,Express,West,Oregon,Eugene,Consumer,PayPal,35.99,Online,False
+1099,C088,Kara Diaz,Standing Mat,Office Supplies,Accessories,1,44.99,44.99,8,2023-04-23,2023-04-26,Standard,East,Connecticut,New Haven,Home Office,Credit Card,8.99,Store,False
+1100,C089,Leo Hayes,Graphic Tablet,Electronics,Accessories,1,159.99,159.99,15,2023-04-24,2023-04-27,Express,South,Texas,Dallas,Consumer,Debit Card,31.99,Online,False
+1101,C005,Emma Davis,Charging Station,Electronics,Accessories,1,49.99,49.99,10,2023-04-25,2023-04-28,Standard,East,Massachusetts,Boston,Consumer,Credit Card,9.99,Online,False
+1102,C090,Mona Myers,Reception Desk,Furniture,Desks,1,699.99,699.99,20,2023-04-26,2023-05-01,Standard,West,Washington,Tacoma,Corporate,PayPal,139.99,Store,False
+1103,C091,Nate Ford,Rubber Bands,Office Supplies,Organizers,15,1.99,29.85,0,2023-04-27,2023-04-30,Standard,Central,Kansas,Overland Park,Home Office,Debit Card,5.97,Store,False
+1104,C092,Opal Wells,Drone Camera,Electronics,Photography,1,599.99,599.99,18,2023-04-28,2023-05-02,Express,East,Virginia,Chesapeake,Consumer,Credit Card,119.99,Online,False
+1105,C093,Paul Wade,Bar Stool,Furniture,Seating,3,79.99,239.97,12,2023-04-29,2023-05-03,Standard,South,North Carolina,Durham,Consumer,Debit Card,47.99,Store,False
+1106,C094,Queen Vargas,Desk Pad Leather,Office Supplies,Accessories,2,29.99,59.98,5,2023-04-30,2023-05-03,Standard,West,California,Fresno,Home Office,PayPal,11.99,Online,False
+1107,C095,Ricky Carroll,Action Camera,Electronics,Photography,1,279.99,279.99,15,2023-05-01,2023-05-04,Express,Central,Illinois,Peoria,Consumer,Credit Card,55.99,Online,False
+1108,C096,Sara Duncan,Pen Holder,Office Supplies,Organizers,5,8.99,44.95,0,2023-05-02,2023-05-05,Standard,East,Maryland,Rockville,Consumer,Debit Card,8.99,Store,False
+1109,C097,Tom Hunter,Network Switch,Electronics,Networking,1,89.99,89.99,10,2023-05-03,2023-05-06,Standard,South,Tennessee,Knoxville,Corporate,PayPal,17.99,Online,False
+1110,C098,Uma Ferguson,Drafting Table,Furniture,Desks,1,399.99,399.99,15,2023-05-04,2023-05-08,Standard,West,Nevada,Reno,Home Office,Credit Card,79.99,Store,False
+1111,C099,Vance Boyd,Letter Opener,Office Supplies,Tools,3,5.99,17.97,0,2023-05-05,2023-05-08,Standard,Central,Michigan,Ann Arbor,Consumer,Debit Card,3.59,Store,False
+1112,C100,Wanda Medina,Security Camera,Electronics,Security,2,129.99,259.98,12,2023-05-06,2023-05-09,Express,East,Pennsylvania,Erie,Consumer,PayPal,51.99,Online,False
+1113,C002,Bob Johnson,Coffee Table,Furniture,Tables,1,199.99,199.99,10,2023-05-07,2023-05-11,Standard,West,California,Los Angeles,Corporate,Credit Card,39.99,Store,False
+1114,C101,Xander Aguilar,Scissors,Office Supplies,Tools,7,4.99,34.93,0,2023-05-08,2023-05-11,Standard,South,Florida,Jacksonville,Home Office,Debit Card,6.98,Store,False
+1115,C102,Yuki Arnold,Ring Light,Electronics,Photography,1,59.99,59.99,8,2023-05-09,2023-05-12,Standard,Central,Wisconsin,Green Bay,Consumer,PayPal,11.99,Online,False
+1116,C103,Zara Reeves,Ottoman,Furniture,Seating,2,99.99,199.98,12,2023-05-10,2023-05-14,Standard,East,New Jersey,Paterson,Consumer,Credit Card,39.99,Store,False
+1117,C104,Andy Bass,Paper Cutter,Office Supplies,Tools,1,39.99,39.99,5,2023-05-11,2023-05-14,Standard,West,Arizona,Mesa,Corporate,Debit Card,7.99,Online,False
+1118,C105,Beth Ortiz,Smart Doorbell,Electronics,Security,1,149.99,149.99,15,2023-05-12,2023-05-15,Express,South,Texas,San Antonio,Consumer,PayPal,29.99,Online,False
+1119,C106,Cody Garza,Futon,Furniture,Seating,1,299.99,299.99,18,2023-05-13,2023-05-17,Standard,Central,Minnesota,Rochester,Consumer,Credit Card,59.99,Store,False
+1120,C107,Dana Mann,Tape,Office Supplies,Accessories,10,2.99,29.90,0,2023-05-14,2023-05-17,Standard,East,Massachusetts,Lowell,Home Office,Debit Card,5.98,Store,False
+1121,C108,Evan Hanson,Thermal Printer,Electronics,Printing,1,189.99,189.99,12,2023-05-15,2023-05-18,Express,West,Washington,Vancouver,Corporate,PayPal,37.99,Online,False
+1122,C109,Faye Castillo,Recliner,Furniture,Seating,1,449.99,449.99,20,2023-05-16,2023-05-20,Standard,South,Louisiana,Shreveport,Consumer,Credit Card,89.99,Store,False
+1123,C110,Greg Watts,Name Tags,Office Supplies,Organizers,8,3.99,31.92,0,2023-05-17,2023-05-20,Standard,Central,Ohio,Akron,Corporate,Debit Card,6.38,Store,False
+1124,C008,Henry Taylor,E-Reader,Electronics,Reading,1,139.99,139.99,10,2023-05-18,2023-05-21,Express,South,Florida,Miami,Consumer,PayPal,27.99,Online,False
+1125,C111,Holly Walsh,Lounge Chair,Furniture,Seating,1,249.99,249.99,15,2023-05-19,2023-05-23,Standard,West,California,Sacramento,Consumer,Credit Card,49.99,Store,False
+1126,C112,Igor Norman,Rubber Stamp,Office Supplies,Tools,2,12.99,25.98,0,2023-05-20,2023-05-23,Standard,East,New York,Yonkers,Home Office,Debit Card,5.19,Store,False
+1127,C113,Jade Bowman,Portable Printer,Electronics,Printing,1,249.99,249.99,12,2023-05-21,2023-05-24,Express,Central,Illinois,Naperville,Consumer,PayPal,49.99,Online,False
+1128,C114,Kurt Lane,Hammock Chair,Furniture,Seating,1,89.99,89.99,8,2023-05-22,2023-05-25,Standard,South,Georgia,Athens,Home Office,Credit Card,17.99,Store,False
+1129,C115,Lena Walsh,Dry Erase Markers,Office Supplies,Writing,9,5.99,53.91,0,2023-05-23,2023-05-26,Standard,West,Oregon,Gresham,Consumer,Debit Card,10.78,Store,False
+1130,C116,Mike Gross,Drawing Tablet,Electronics,Accessories,1,199.99,199.99,15,2023-05-24,2023-05-27,Express,East,Pennsylvania,Reading,Consumer,PayPal,39.99,Online,False
+1131,C117,Nina Sharp,Bench,Furniture,Seating,1,129.99,129.99,10,2023-05-25,2023-05-29,Standard,Central,Missouri,Independence,Home Office,Credit Card,25.99,Store,False
+1132,C118,Otto Frank,Push Pins,Office Supplies,Organizers,11,2.99,32.89,0,2023-05-26,2023-05-29,Standard,South,North Carolina,Greensboro,Consumer,Debit Card,6.57,Store,False
+1133,C119,Piper Marsh,Car Charger,Electronics,Accessories,3,19.99,59.97,5,2023-05-27,2023-05-30,Standard,West,Colorado,Lakewood,Consumer,PayPal,11.99,Online,False
+1134,C120,Quinton Brock,Plant Stand,Furniture,Accessories,2,34.99,69.98,8,2023-05-28,2023-05-31,Standard,East,New Jersey,Elizabeth,Home Office,Credit Card,13.99,Store,False
+1135,C121,Rita Hale,Laminator,Office Supplies,Tools,1,69.99,69.99,10,2023-05-29,2023-06-01,Standard,Central,Indiana,Evansville,Corporate,Debit Card,13.99,Online,False
+1136,C122,Seth Austin,Smart Thermostat,Electronics,Home,1,199.99,199.99,15,2023-05-30,2023-06-02,Express,South,Texas,Fort Worth,Consumer,PayPal,39.99,Online,False
+1137,C123,Tess Malone,TV Stand,Furniture,Storage,1,179.99,179.99,12,2023-05-31,2023-06-04,Standard,West,Nevada,Paradise,Consumer,Credit Card,35.99,Store,False
+1138,C005,Emma Davis,Air Purifier,Electronics,Home,1,149.99,149.99,10,2023-06-01,2023-06-04,Express,East,Massachusetts,Boston,Consumer,Debit Card,29.99,Online,False
+1139,C124,Ulysses Horn,Glue Sticks,Office Supplies,Accessories,14,2.99,41.86,0,2023-06-02,2023-06-05,Standard,Central,Wisconsin,Kenosha,Home Office,PayPal,8.37,Store,False
+1140,C125,Vera Pena,Smart Lock,Electronics,Security,1,179.99,179.99,15,2023-06-03,2023-06-06,Express,East,Virginia,Newport News,Consumer,Credit Card,35.99,Online,False
+1141,C126,Wade Page,Coat Stand,Furniture,Accessories,1,44.99,44.99,5,2023-06-04,2023-06-07,Standard,South,Tennessee,Chattanooga,Corporate,Debit Card,8.99,Store,False
+1142,C127,Xena Lowe,Staples,Office Supplies,Organizers,16,1.99,31.84,0,2023-06-05,2023-06-08,Standard,West,Arizona,Chandler,Home Office,PayPal,6.36,Store,False
+1143,C128,Yale Snow,Video Doorbell,Electronics,Security,1,199.99,199.99,18,2023-06-06,2023-06-09,Express,Central,Illinois,Joliet,Consumer,Credit Card,39.99,Online,False
+1144,C129,Zoe Hines,Bar Cart,Furniture,Storage,1,159.99,159.99,12,2023-06-07,2023-06-11,Standard,East,New York,Syracuse,Consumer,Debit Card,31.99,Store,False
+1145,C130,Adam Knox,Wrist Rest,Office Supplies,Accessories,3,12.99,38.97,0,2023-06-08,2023-06-11,Standard,West,Washington,Bellevue,Home Office,PayPal,7.79,Online,False
+1146,C002,Bob Johnson,Printer Wireless,Electronics,Printing,1,179.99,179.99,10,2023-06-09,2023-06-12,Express,West,California,Los Angeles,Corporate,Credit Card,35.99,Online,False
+1147,C131,Blake Gill,Shoe Rack,Furniture,Storage,1,49.99,49.99,8,2023-06-10,2023-06-13,Standard,South,Florida,Hialeah,Consumer,Debit Card,9.99,Store,False
+1148,C132,Clare Howe,Laminating Sheets,Office Supplies,Accessories,6,6.99,41.94,0,2023-06-11,2023-06-14,Standard,Central,Ohio,Dayton,Home Office,PayPal,8.38,Store,False
+1149,C133,Derek Zimmerman,Streaming Device,Electronics,Entertainment,1,49.99,49.99,5,2023-06-12,2023-06-15,Standard,East,Pennsylvania,Scranton,Consumer,Credit Card,9.99,Online,False
+1150,C134,Elle Barton,Armchair,Furniture,Seating,1,349.99,349.99,15,2023-06-13,2023-06-17,Standard,West,Oregon,Salem,Consumer,Debit Card,69.99,Store,False
+1151,C135,Ford Blake,Dividers,Office Supplies,Organizers,9,4.99,44.91,0,2023-06-14,2023-06-17,Standard,South,Louisiana,Metairie,Home Office,PayPal,8.98,Store,False
+1152,C136,Gwen Soto,Phone Mount,Electronics,Accessories,2,24.99,49.98,10,2023-06-15,2023-06-18,Standard,Central,Minnesota,Duluth,Consumer,Credit Card,9.99,Online,False
+1153,C137,Hank Stout,Shoe Cabinet,Furniture,Storage,1,119.99,119.99,12,2023-06-16,2023-06-20,Standard,East,New Jersey,Edison,Home Office,Debit Card,23.99,Store,False
+1154,C008,Henry Taylor,Fitness Band,Electronics,Wearables,1,79.99,79.99,8,2023-06-17,2023-06-20,Express,South,Florida,Miami,Consumer,PayPal,15.99,Online,False
+1155,C138,Iris Cochran,Erasers,Office Supplies,Writing,12,1.99,23.88,0,2023-06-18,2023-06-21,Standard,West,California,Anaheim,Consumer,Credit Card,4.77,Store,False
+1156,C139,Jared Osborne,Smart Plug,Electronics,Home,4,14.99,59.96,5,2023-06-19,2023-06-22,Standard,Central,Illinois,Arlington Heights,Home Office,Debit Card,11.99,Online,False
+1157,C140,Kathy Vance,Wine Rack,Furniture,Storage,1,69.99,69.99,10,2023-06-20,2023-06-23,Standard,South,Texas,El Paso,Consumer,PayPal,13.99,Store,False
+1158,C141,Lance Rodgers,Binder,Office Supplies,Organizers,7,8.99,62.93,0,2023-06-21,2023-06-24,Standard,East,Massachusetts,Cambridge,Home Office,Credit Card,12.58,Store,False
+1159,C142,Maya Pratt,Smart Scale,Electronics,Health,1,49.99,49.99,8,2023-06-22,2023-06-25,Standard,West,Washington,Kent,Consumer,Debit Card,9.99,Online,False
+1160,C143,Neil Goodman,Wardrobe,Furniture,Storage,1,399.99,399.99,18,2023-06-23,2023-06-27,Standard,Central,Missouri,Columbia,Consumer,PayPal,79.99,Store,False
+1161,C144,Orla Prince,Tacks,Office Supplies,Organizers,13,2.99,38.87,0,2023-06-24,2023-06-27,Standard,South,North Carolina,Winston-Salem,Home Office,Credit Card,7.77,Store,False
+1162,C145,Pete Weeks,Backup Battery,Electronics,Accessories,1,89.99,89.99,12,2023-06-25,2023-06-28,Express,East,New York,Albany,Consumer,Debit Card,17.99,Online,False
+1163,C146,Quinn Huff,Storage Bench,Furniture,Storage,1,149.99,149.99,10,2023-06-26,2023-06-30,Standard,West,Nevada,North Las Vegas,Home Office,PayPal,29.99,Store,False
+1164,C147,Remy Kirk,Pencil Sharpener,Office Supplies,Tools,4,7.99,31.96,0,2023-06-27,2023-06-30,Standard,Central,Indiana,South Bend,Consumer,Credit Card,6.39,Store,False
+1165,C148,Sage Pitts,LED Bulbs,Electronics,Home,6,9.99,59.94,5,2023-06-28,2023-07-01,Standard,South,Georgia,Augusta,Consumer,Debit Card,11.98,Online,False
+1166,C149,Troy Cruz,Dining Chair,Furniture,Chairs,4,79.99,319.96,15,2023-06-29,2023-07-03,Standard,East,Pennsylvania,Harrisburg,Consumer,PayPal,63.99,Store,False
+1167,C150,Unity Pace,Pencil Case,Office Supplies,Organizers,5,5.99,29.95,0,2023-06-30,2023-07-03,Standard,West,Oregon,Hillsboro,Home Office,Credit Card,5.99,Store,False
+1168,C005,Emma Davis,Smart Light Strip,Electronics,Home,1,39.99,39.99,10,2023-07-01,2023-07-04,Standard,East,Massachusetts,Boston,Consumer,Debit Card,7.99,Online,False
+1169,C151,Vale Berg,Mirror,Furniture,Accessories,1,99.99,99.99,8,2023-07-02,2023-07-05,Standard,Central,Wisconsin,Racine,Home Office,PayPal,19.99,Store,False
+1170,C152,Wade Dotson,Ink Pads,Office Supplies,Accessories,4,6.99,27.96,0,2023-07-03,2023-07-06,Standard,South,Tennessee,Clarksville,Consumer,Credit Card,5.59,Store,False
+1171,C153,Xara Kemp,Alarm Clock,Electronics,Home,2,29.99,59.98,5,2023-07-04,2023-07-07,Standard,East,New York,New Rochelle,Consumer,Debit Card,11.99,Online,False
+1172,C154,Yuri Knapp,Dresser,Furniture,Storage,1,299.99,299.99,15,2023-07-05,2023-07-09,Standard,West,California,Santa Clarita,Consumer,PayPal,59.99,Store,False
+1173,C155,Zain Weiss,Graph Paper,Office Supplies,Paper,8,3.99,31.92,0,2023-07-06,2023-07-09,Standard,Central,Illinois,Elgin,Home Office,Credit Card,6.38,Store,False
+1174,C156,Alma Haas,Mini Fridge,Electronics,Home,1,199.99,199.99,12,2023-07-07,2023-07-10,Express,South,Texas,Laredo,Consumer,Debit Card,39.99,Online,False
+1175,C157,Brad Mercer,Nightstand,Furniture,Storage,2,89.99,179.98,10,2023-07-08,2023-07-12,Standard,East,Virginia,Alexandria,Consumer,PayPal,35.99,Store,False
+1176,C158,Cleo Mann,Correction Fluid,Office Supplies,Writing,10,3.99,39.90,0,2023-07-09,2023-07-12,Standard,West,Washington,Everett,Home Office,Credit Card,7.98,Store,False
+1177,C159,Dax Boone,Tablet Holder,Electronics,Accessories,1,19.99,19.99,0,2023-07-10,2023-07-13,Standard,Central,Minnesota,Brooklyn Park,Consumer,Debit Card,3.99,Online,False
+1178,C160,Ella Pugh,Bed Frame,Furniture,Bedroom,1,349.99,349.99,18,2023-07-11,2023-07-15,Standard,South,Florida,Port St. Lucie,Consumer,Credit Card,69.99,Store,False
+1179,C161,Finn Huff,Color Pencils,Office Supplies,Writing,6,8.99,53.94,0,2023-07-12,2023-07-15,Standard,East,Massachusetts,Brockton,Home Office,PayPal,10.78,Store,False
+1180,C162,Gale Rich,Digital Frame,Electronics,Home,1,129.99,129.99,15,2023-07-13,2023-07-16,Express,West,Nevada,Sparks,Consumer,Debit Card,25.99,Online,False
+1181,C163,Hope Kent,Vanity Table,Furniture,Bedroom,1,249.99,249.99,12,2023-07-14,2023-07-18,Standard,Central,Ohio,Parma,Consumer,PayPal,49.99,Store,False
+1182,C002,Bob Johnson,Memory Card,Electronics,Storage,3,24.99,74.97,8,2023-07-15,2023-07-18,Standard,West,California,Los Angeles,Corporate,Credit Card,14.99,Online,False
+1183,C164,Ivan Cash,Magazine Holder,Office Supplies,Organizers,2,13.99,27.98,5,2023-07-16,2023-07-19,Standard,South,Louisiana,Lafayette,Home Office,Debit Card,5.59,Store,False
+1184,C165,Jana Duke,Soundbar,Electronics,Audio,1,179.99,179.99,12,2023-07-17,2023-07-20,Express,East,Pennsylvania,Lancaster,Consumer,PayPal,35.99,Online,False
+1185,C166,Kyle Bass,Bedside Lamp,Furniture,Lighting,2,39.99,79.98,10,2023-07-18,2023-07-22,Standard,Central,Illinois,Rockford,Consumer,Credit Card,15.99,Store,False
+1186,C167,Lila Moon,Report Covers,Office Supplies,Presentation,8,4.99,39.92,0,2023-07-19,2023-07-22,Standard,West,Oregon,Beaverton,Home Office,Debit Card,7.98,Store,False
+1187,C168,Myra Case,Doorbell Camera,Electronics,Security,1,149.99,149.99,15,2023-07-20,2023-07-23,Express,South,Texas,Corpus Christi,Consumer,PayPal,29.99,Online,False
+1188,C169,Nash Todd,Coat Hooks,Furniture,Accessories,3,14.99,44.97,8,2023-07-21,2023-07-24,Standard,East,New Jersey,Trenton,Home Office,Credit Card,8.99,Store,False
+1189,C170,Oona Clay,Crayons,Office Supplies,Writing,11,3.99,43.89,0,2023-07-22,2023-07-25,Standard,Central,Michigan,Livonia,Consumer,Debit Card,8.77,Store,False
+1190,C008,Henry Taylor,Robot Vacuum,Electronics,Home,1,299.99,299.99,20,2023-07-23,2023-07-27,Express,South,Florida,Miami,Consumer,PayPal,59.99,Online,False
+1191,C171,Paul Ware,Shelving Unit,Furniture,Storage,1,129.99,129.99,10,2023-07-24,2023-07-28,Standard,West,California,Irvine,Consumer,Credit Card,25.99,Store,False
+1192,C172,Quin Rosa,Desk Accessories Set,Office Supplies,Organizers,2,24.99,49.98,5,2023-07-25,2023-07-28,Standard,South,North Carolina,Fayetteville,Home Office,Debit Card,9.99,Store,False
+1193,C173,Rory Pace,Digital Pen,Electronics,Accessories,1,99.99,99.99,12,2023-07-26,2023-07-29,Express,East,New York,Mount Vernon,Consumer,PayPal,19.99,Online,False
+1194,C174,Sage Berg,Patio Chair,Furniture,Outdoor,2,69.99,139.98,15,2023-07-27,2023-07-31,Standard,Central,Indiana,Carmel,Consumer,Credit Card,27.99,Store,False
+1195,C175,Tara Moon,Sticky Tabs,Office Supplies,Organizers,14,2.99,41.86,0,2023-07-28,2023-07-31,Standard,West,Washington,Renton,Home Office,Debit Card,8.37,Store,False
+1196,C176,Umar Shaw,Car Vacuum,Electronics,Auto,1,59.99,59.99,10,2023-07-29,2023-08-01,Standard,South,Georgia,Macon,Consumer,PayPal,11.99,Online,False
+1197,C177,Vale Horn,Garden Bench,Furniture,Outdoor,1,149.99,149.99,12,2023-07-30,2023-08-03,Standard,East,Virginia,Hampton,Consumer,Credit Card,29.99,Store,False
+1198,C178,Wade Hull,Memo Pads,Office Supplies,Paper,12,2.99,35.88,0,2023-07-31,2023-08-03,Standard,Central,Wisconsin,Appleton,Home Office,Debit Card,7.17,Store,False
+1199,C179,Xena Pace,Battery Pack,Electronics,Accessories,2,44.99,89.98,8,2023-08-01,2023-08-04,Standard,West,Nevada,Carson City,Consumer,PayPal,17.99,Online,False
+1200,C180,Yara Love,Umbrella Stand,Furniture,Accessories,1,29.99,29.99,5,2023-08-02,2023-08-05,Standard,South,Tennessee,Murfreesboro,Home Office,Credit Card,5.99,Store,False
