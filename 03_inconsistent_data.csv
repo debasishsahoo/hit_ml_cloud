@@ -1,0 +1,21 @@
+Customer_ID,Name,Address,Phone,Email,Birth_Date,Country,State,Annual_Income,Active_Status
+C001,John Smith,123 Main St,555-0101,john@email.com,1990-01-15,USA,NY,"$50,000",Yes
+C002,SARAH JOHNSON,  456 Oak Ave,(555) 0102,SARAH@EMAIL.COM,02/20/1985,usa,New York,60000,yes
+C003,mike williams,789 Pine Rd  ,555.0103,mike@Email.Com,1992-03-10,United States,ny,"$75,000.00",Y
+C004,Emma Brown,  321 Elm St  ,5550104,emma@email.com,04/05/1988,US,CA,45000,TRUE
+C005,DAVID JONES,654 Maple Dr,+1-555-0105,DAVID@EMAIL.COM,1995-06-22,U.S.A.,California,"$82,500",True
+C006,lisa garcia,987 Cedar Ln  ,555-0106,lisa@Email.Com,07/30/1983,USA,ca,55000,true
+C007,Robert Miller,  147 Birch Way,(555) 0107,robert@email.com,1991-08-14,United States,TX,"$68,000.00",1
+C008,JENNIFER DAVIS,258  Oak  St,555.0108,JENNIFER@EMAIL.COM,09/12/1987,us,Texas,72000,No
+C009,william rodriguez,369 Pine Ave  ,5550109,william@Email.Com,1993-10-25,U.S.A.,tx,"$91,000",no
+C010,Mary Martinez,  741 Elm Dr,+1-555-0110,mary@email.com,11/18/1989,USA,FL,63000,N
+C011,James Hernandez,852  Maple  St,555-0111,james@email.com,1994-12-05,usa,Florida,"$77,500.00",FALSE
+C012,PATRICIA LOPEZ,963 Cedar Ave  ,(555) 0112,PATRICIA@EMAIL.COM,01/23/1986,US,fl,58000,False
+C013,richard gonzalez,  159 Birch Rd,555.0113,richard@Email.Com,1996-02-28,United States,IL,"$85,000",false
+C014,Linda Wilson,357  Main  Dr,5550114,linda@email.com,03/15/1984,U.S.A.,Illinois,69000,0
+C015,THOMAS ANDERSON,486 Oak Ln  ,+1-555-0115,THOMAS@EMAIL.COM,1997-04-09,USA,il,"$95,000.00",Yes
+C016,nancy taylor,  753 Pine St,555-0116,nancy@Email.Com,05/07/1990,us,PA,51000,YES
+C017,Charles Moore,951  Elm  Ave,(555) 0117,charles@email.com,1998-06-18,United States,Pennsylvania,"$73,000",y
+C018,BETTY JACKSON,  842 Maple Rd,555.0118,BETTY@EMAIL.COM,08/22/1982,USA,pa,66000,No
+C019,steven white,  624  Cedar  St,5550119,steven@Email.Com,1999-09-30,usa,OH,"$88,500.00",NO
+C020,Dorothy Harris,  135 Birch Dr  ,+1-555-0120,dorothy@email.com,10/14/1991,U.S.A.,Ohio,79000,n

@@ -1,0 +1,21 @@
+Employee_ID,First_Name,Last_Name,Email,Phone,Department,Salary,Hire_Date,Manager_ID,Office_Location,Years_Experience
+E001,John,Smith,john.smith@email.com,555-0101,IT,50000.0,2020-01-15,M001,New York,5.0
+E002,Sarah,Johnson,sarah.j@email.com,,HR,,2019-06-20,,,8.0
+E003,,Williams,,555-0103,Finance,55000.0,,M002,Chicago,
+E004,Michael,,michael.w@email.com,555-0104,,60000.0,2021-03-10,M001,Boston,3.0
+E005,Emma,Brown,,,IT,48000.0,,,,7.0
+E006,David,Jones,david.jones@email.com,555-0106,,,2018-11-05,M003,Seattle,
+E007,,Garcia,garcia@email.com,555-0107,Marketing,52000.0,2020-07-22,M002,New York,4.0
+E008,Lisa,Miller,,555-0108,IT,58000.0,,,,9.0
+E009,Robert,,robert@email.com,,HR,,2019-09-14,M001,,6.0
+E010,Jennifer,Davis,jennifer.d@email.com,555-0110,,62000.0,2021-01-08,M003,Chicago,
+E011,William,Rodriguez,,555-0111,Finance,54000.0,,M002,Boston,5.0
+E012,,Martinez,martinez@email.com,,IT,56000.0,2020-04-16,,Seattle,7.0
+E013,Mary,,mary.h@email.com,555-0113,,,2018-12-03,M003,,3.0
+E014,James,Hernandez,,555-0114,Marketing,59000.0,,M001,,
+E015,Patricia,Lopez,patricia.l@email.com,555-0115,HR,51000.0,2021-05-19,,New York,8.0
+E016,Richard,,richard@email.com,,Finance,,2019-02-27,M002,Chicago,4.0
+E017,Linda,Gonzalez,,555-0117,,53000.0,,M003,,6.0
+E018,,Wilson,wilson@email.com,555-0118,IT,57000.0,,,Boston,
+E019,Thomas,Anderson,,,Marketing,61000.0,2020-10-11,,,5.0
+E020,Nancy,,nancy.a@email.com,555-0120,,,2021-08-30,M001,Seattle,9.0

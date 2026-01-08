@@ -1,0 +1,201 @@
+Employee_ID,Age,Gender,Education,Years_Experience,Department,Job_Level,Annual_Salary,Bonus,Job_Satisfaction,Work_Hours_Per_Week,Survey_Date
+E0001,60,Male,Master,27,IT,Manager,106374.0,5774.0,4.0,42.4,2023-06-01
+E0002,50,Male,PhD,19,Finance,Mid,47393.0,6407.0,5.0,41.5,2023-06-02
+E0003,36,Female,High School,27,Operations,Junior,41383.0,3138.0,6.0,46.6,2023-06-03
+E0004,64,Male,Bachelor,7,Marketing,Mid,122573.0,6310.0,3.0,40.5,2023-06-04
+E0005,29,Male,Master,38,HR,Junior,89643.0,5488.0,2.0,43.3,2023-06-05
+E0006,42,Male,Bachelor,0,Marketing,Mid,50138.0,2265.0,4.0,43.6,2023-06-06
+E0007,60,Female,Bachelor,2,HR,Manager,70438.0,4958.0,5.0,38.7,2023-06-07
+E0008,40,Female,Bachelor,12,Operations,Junior,113647.0,3850.0,4.0,47.0,2023-06-08
+E0009,44,Male,Bachelor,27,HR,Junior,82291.0,3172.0,3.0,41.1,2023-06-09
+E0010,32,Female,Master,24,Finance,Junior,,,8.0,38.2,2023-06-10
+E0011,32,Female,High School,32,Finance,Senior,85120.0,5188.0,10.0,44.7,2023-06-11
+E0012,45,Female,Master,37,Finance,Mid,88256.0,2659.0,4.0,37.5,2023-06-12
+E0013,57,Female,Bachelor,5,Finance,Junior,65994.0,3587.0,2.0,42.1,2023-06-13
+E0014,61,Male,Bachelor,31,Marketing,Manager,65284.0,8225.0,2.0,42.0,2023-06-14
+E0015,45,Male,Bachelor,20,Operations,Senior,71676.0,6896.0,1.0,47.4,2023-06-15
+E0016,24,Female,Bachelor,15,HR,Junior,83361.0,2064.0,4.0,44.4,2023-06-16
+E0017,43,Female,Master,20,HR,Senior,,,10.0,41.9,2023-06-17
+E0018,23,Male,High School,10,Finance,Senior,68051.0,5398.0,9.0,46.1,2023-06-18
+E0019,45,Male,High School,36,Finance,Mid,,,7.0,49.0,2023-06-19
+E0020,51,Female,Master,35,IT,Junior,67892.0,9149.0,10.0,44.8,2023-06-20
+E0021,59,Male,High School,34,Operations,Junior,33725.0,399.0,7.0,42.1,2023-06-21
+E0022,23,Female,High School,18,Marketing,Junior,130149.0,7583.0,7.0,35.4,2023-06-22
+E0023,42,Female,Bachelor,19,HR,Senior,46676.0,8796.0,8.0,36.7,2023-06-23
+E0024,54,Male,High School,17,IT,Manager,55963.0,6678.0,1.0,40.5,2023-06-24
+E0025,33,Male,Master,13,IT,Junior,44518.0,3994.0,10.0,39.0,2023-06-25
+E0026,43,Female,High School,14,HR,Junior,80393.0,12240.0,10.0,41.1,2023-06-26
+E0027,46,Female,Bachelor,30,Marketing,Junior,60100.0,6954.0,8.0,42.3,2023-06-27
+E0028,48,Male,Bachelor,0,IT,Junior,,,4.0,,2023-06-28
+E0029,63,Female,Master,2,IT,Senior,81422.0,9054.0,4.0,41.6,2023-06-29
+E0030,49,Male,Bachelor,15,Operations,Mid,84791.0,6392.0,4.0,44.4,2023-06-30
+E0031,37,Female,High School,22,Marketing,Mid,63328.0,3261.0,6.0,42.3,2023-07-01
+E0032,36,Male,PhD,10,IT,Junior,48409.0,4928.0,7.0,32.1,2023-07-02
+E0033,24,Male,Master,11,Marketing,Mid,,,6.0,37.3,2023-07-03
+E0034,58,Male,Master,9,HR,Mid,73502.0,1356.0,1.0,41.3,2023-07-04
+E0035,28,Female,Bachelor,31,Finance,Senior,,,8.0,36.0,2023-07-05
+E0036,42,Female,High School,15,IT,Junior,100351.0,9702.0,10.0,45.0,2023-07-06
+E0037,30,Male,Bachelor,7,Operations,Senior,,,7.0,,2023-07-07
+E0038,60,Female,Bachelor,37,HR,Mid,133547.0,11491.0,6.0,48.1,2023-07-08
+E0039,39,Male,Bachelor,11,Marketing,Junior,66991.0,327.0,6.0,40.9,2023-07-09
+E0040,25,Male,Master,23,HR,Mid,,,5.0,49.5,2023-07-10
+E0041,46,Female,Bachelor,27,IT,Senior,30000.0,10015.0,6.0,42.7,2023-07-11
+E0042,35,Female,PhD,7,Marketing,Manager,32896.0,4388.0,9.0,40.3,2023-07-12
+E0043,30,Male,Bachelor,27,Finance,Mid,,4442.0,10.0,38.9,2023-07-13
+E0044,47,Female,Master,35,HR,Mid,72945.0,8128.0,9.0,40.5,2023-07-14
+E0045,23,Female,High School,25,IT,Manager,116060.0,6518.0,10.0,40.1,2023-07-15
+E0046,41,Male,Bachelor,7,Operations,Mid,,,8.0,42.9,2023-07-16
+E0047,49,Male,Master,27,Marketing,Junior,68632.0,2470.0,10.0,,2023-07-17
+E0048,28,Female,High School,27,HR,Manager,107839.0,4959.0,9.0,42.0,2023-07-18
+E0049,29,Male,High School,36,HR,Junior,90253.0,891.0,10.0,,2023-07-19
+E0050,56,Male,PhD,35,Finance,Mid,60093.0,3577.0,8.0,48.0,2023-07-20
+E0051,35,Female,Master,26,Finance,Junior,37647.0,966.0,8.0,46.7,2023-07-21
+E0052,38,Male,High School,16,Operations,Junior,,,1.0,34.6,2023-07-22
+E0053,57,Male,Bachelor,8,Operations,Mid,54058.0,3990.0,10.0,29.2,2023-07-23
+E0054,61,Female,Bachelor,32,IT,Senior,35342.0,6055.0,,46.7,2023-07-24
+E0055,25,Female,Master,19,IT,Junior,129943.0,4725.0,4.0,35.2,2023-07-25
+E0056,23,Male,Bachelor,12,Operations,Junior,48741.0,6508.0,2.0,,2023-07-26
+E0057,27,Male,High School,27,Operations,Junior,,,8.0,36.1,2023-07-27
+E0058,63,Female,High School,28,Marketing,Mid,30000.0,8094.0,3.0,33.0,2023-07-28
+E0059,25,Female,Bachelor,12,Finance,Manager,,,4.0,44.7,2023-07-29
+E0060,50,Female,Master,34,IT,Mid,48387.0,7304.0,7.0,45.8,2023-07-30
+E0061,39,Female,High School,5,Finance,Mid,,,10.0,39.1,2023-07-31
+E0062,47,Male,PhD,17,Finance,Senior,69212.0,6042.0,9.0,29.0,2023-08-01
+E0063,55,Female,Bachelor,4,Operations,Mid,64778.0,12781.0,,,2023-08-02
+E0064,31,Female,Bachelor,24,Marketing,Junior,61633.0,6237.0,3.0,,2023-08-03
+E0065,57,Male,High School,1,HR,Junior,,,4.0,34.6,2023-08-04
+E0066,35,Female,High School,9,Marketing,Mid,,,10.0,,2023-08-05
+E0067,52,Male,PhD,29,Marketing,Mid,81680.0,9529.0,1.0,41.9,2023-08-06
+E0068,36,Female,Master,4,Finance,Mid,,,7.0,44.9,2023-08-07
+E0069,29,Female,Bachelor,32,Marketing,Senior,76502.0,6799.0,2.0,42.6,2023-08-08
+E0070,35,Female,Master,0,IT,Mid,58757.0,8401.0,5.0,37.1,2023-08-09
+E0071,44,Male,Bachelor,17,Finance,Mid,41164.0,1168.0,1.0,,2023-08-10
+E0072,61,Male,Master,31,IT,Mid,,,3.0,41.2,2023-08-11
+E0073,42,Female,High School,10,HR,Mid,79077.0,8739.0,,41.9,2023-08-12
+E0074,37,Male,Bachelor,20,Finance,Senior,30000.0,4620.0,1.0,37.3,2023-08-13
+E0075,39,Male,High School,25,HR,Mid,85789.0,7248.0,7.0,39.8,2023-08-14
+E0076,45,Male,High School,24,Finance,Junior,,,5.0,37.6,2023-08-15
+E0077,47,Male,Bachelor,21,Operations,Senior,61270.0,9971.0,1.0,41.1,2023-08-16
+E0078,46,Male,High School,26,Marketing,Mid,48515.0,379.0,6.0,50.6,2023-08-17
+E0079,62,Male,High School,12,Operations,Mid,53091.0,843.0,5.0,35.1,2023-08-18
+E0080,50,Female,Bachelor,32,HR,Mid,79933.0,9333.0,3.0,33.9,2023-08-19
+E0081,36,Female,PhD,33,Marketing,Mid,61795.0,0.0,7.0,49.4,2023-08-20
+E0082,22,Male,High School,34,Finance,Senior,,,10.0,41.0,2023-08-21
+E0083,46,Female,High School,0,Marketing,Junior,76714.0,4678.0,9.0,38.7,2023-08-22
+E0084,28,Female,Master,20,IT,Mid,77705.0,2792.0,9.0,47.2,2023-08-23
+E0085,30,Female,Master,5,Marketing,Junior,33771.0,4400.0,9.0,39.0,2023-08-24
+E0086,45,Female,Bachelor,27,IT,Senior,79287.0,2457.0,2.0,51.1,2023-08-25
+E0087,22,Male,Bachelor,16,Marketing,Junior,,,3.0,45.4,2023-08-26
+E0088,29,Female,Master,4,IT,Senior,,,7.0,39.6,2023-08-27
+E0089,45,Female,High School,30,HR,Mid,30000.0,2943.0,5.0,52.8,2023-08-28
+E0090,32,Male,PhD,4,Operations,Senior,69434.0,5827.0,2.0,39.0,2023-08-29
+E0091,38,Male,Master,37,Finance,Manager,30000.0,1025.0,3.0,45.7,2023-08-30
+E0092,29,Female,Bachelor,2,Marketing,Senior,,8219.0,10.0,43.5,2023-08-31
+E0093,56,Female,High School,22,Operations,Senior,120892.0,8141.0,6.0,48.5,2023-09-01
+E0094,56,Female,PhD,36,Finance,Mid,,,7.0,49.8,2023-09-02
+E0095,54,Female,Bachelor,36,Finance,Mid,30000.0,5051.0,9.0,42.2,2023-09-03
+E0096,26,Female,Bachelor,9,IT,Junior,,,1.0,38.2,2023-09-04
+E0097,63,Female,Master,9,HR,Junior,60475.0,145.0,7.0,44.3,2023-09-05
+E0098,60,Male,Master,18,HR,Mid,30000.0,9638.0,8.0,38.6,2023-09-06
+E0099,62,Female,PhD,16,Operations,Mid,63274.0,2699.0,3.0,52.1,2023-09-07
+E0100,49,Female,PhD,20,HR,Mid,60311.0,2720.0,4.0,42.7,2023-09-08
+E0101,28,Male,Master,13,Marketing,Mid,68129.0,4549.0,10.0,40.2,2023-09-09
+E0102,30,Male,Master,8,HR,Senior,70741.0,7987.0,6.0,42.9,2023-09-10
+E0103,29,Male,Master,0,Operations,Mid,40860.0,3226.0,10.0,35.3,2023-09-11
+E0104,33,Male,Master,12,HR,Senior,43665.0,0.0,7.0,37.1,2023-09-12
+E0105,55,Female,Bachelor,3,Marketing,Senior,66140.0,2339.0,4.0,48.0,2023-09-13
+E0106,54,Female,High School,0,IT,Manager,,,,38.7,2023-09-14
+E0107,44,Female,Master,39,Operations,Mid,87687.0,11569.0,5.0,36.8,2023-09-15
+E0108,45,Female,Master,31,IT,Senior,65897.0,1220.0,1.0,,2023-09-16
+E0109,58,Female,Master,33,IT,Manager,,,4.0,47.9,2023-09-17
+E0110,56,Female,Master,27,IT,Manager,85512.0,462.0,3.0,45.6,2023-09-18
+E0111,61,Male,Master,30,Finance,Junior,92593.0,90.0,9.0,47.0,2023-09-19
+E0112,43,Female,Bachelor,7,Finance,Mid,,,8.0,38.2,2023-09-20
+E0113,48,Male,Bachelor,38,IT,Mid,68934.0,9484.0,1.0,34.9,2023-09-21
+E0114,56,Male,Bachelor,25,Operations,Junior,108283.0,5533.0,6.0,49.5,2023-09-22
+E0115,22,Female,Bachelor,33,Marketing,Mid,,3597.0,,40.4,2023-09-23
+E0116,56,Male,High School,2,Marketing,Senior,78669.0,10373.0,7.0,40.7,2023-09-24
+E0117,58,Female,Master,11,HR,Senior,58344.0,5522.0,4.0,48.6,2023-09-25
+E0118,35,Male,Bachelor,0,Operations,Junior,,,1.0,44.8,2023-09-26
+E0119,24,Female,Master,4,Finance,Senior,35778.0,3451.0,2.0,,2023-09-27
+E0120,22,Male,Bachelor,29,IT,Mid,46437.0,5133.0,5.0,,2023-09-28
+E0121,26,Female,Master,29,HR,Senior,,,5.0,38.8,2023-09-29
+E0122,47,Female,Bachelor,16,Marketing,Manager,79859.0,6888.0,8.0,,2023-09-30
+E0123,35,Female,Bachelor,22,Finance,Mid,91005.0,5573.0,6.0,42.3,2023-10-01
+E0124,60,Female,Bachelor,14,Finance,Mid,62631.0,2316.0,8.0,43.3,2023-10-02
+E0125,48,Female,Master,36,IT,Senior,70741.0,2357.0,2.0,49.6,2023-10-03
+E0126,30,Male,Bachelor,20,Marketing,Mid,,,3.0,44.5,2023-10-04
+E0127,36,Male,PhD,13,Operations,Junior,44731.0,10915.0,6.0,44.7,2023-10-05
+E0128,36,Male,High School,1,Finance,Senior,86557.0,4361.0,10.0,47.4,2023-10-06
+E0129,47,Female,Bachelor,10,IT,Mid,81313.0,5203.0,,40.2,2023-10-07
+E0130,63,Male,PhD,38,Operations,Senior,30000.0,6200.0,6.0,37.8,2023-10-08
+E0131,34,Female,Bachelor,37,Marketing,Mid,,,,,2023-10-09
+E0132,53,Female,Bachelor,33,Finance,Senior,42949.0,0.0,2.0,32.2,2023-10-10
+E0133,60,Male,Bachelor,37,Operations,Junior,55227.0,6284.0,7.0,,2023-10-11
+E0134,53,Male,Bachelor,33,Operations,Manager,48239.0,0.0,2.0,36.5,2023-10-12
+E0135,25,Female,Master,17,Operations,Senior,63839.0,2802.0,6.0,40.9,2023-10-13
+E0136,51,Male,High School,29,Finance,Junior,56752.0,6516.0,1.0,40.6,2023-10-14
+E0137,58,Female,Bachelor,14,Finance,Mid,56221.0,6800.0,3.0,43.5,2023-10-15
+E0138,44,Female,Bachelor,26,HR,Manager,92685.0,2570.0,,46.1,2023-10-16
+E0139,60,Female,Master,33,Marketing,Mid,78929.0,3625.0,7.0,46.3,2023-10-17
+E0140,36,Female,Bachelor,37,IT,Junior,,,4.0,,2023-10-18
+E0141,64,Female,Bachelor,32,Operations,Mid,51111.0,4691.0,8.0,41.2,2023-10-19
+E0142,50,Male,Master,23,HR,Mid,77295.0,4920.0,6.0,43.4,2023-10-20
+E0143,57,Male,Master,14,IT,Senior,77260.0,7005.0,10.0,40.8,2023-10-21
+E0144,34,Female,Bachelor,29,HR,Senior,49905.0,3449.0,4.0,50.0,2023-10-22
+E0145,53,Female,Bachelor,16,Finance,Mid,59150.0,6120.0,5.0,44.5,2023-10-23
+E0146,28,Male,Bachelor,4,Operations,Junior,111170.0,6521.0,9.0,45.7,2023-10-24
+E0147,43,Male,Bachelor,28,IT,Mid,,,7.0,45.3,2023-10-25
+E0148,49,Female,Bachelor,3,IT,Mid,112770.0,4221.0,,47.9,2023-10-26
+E0149,23,Male,Bachelor,9,IT,Junior,92592.0,5542.0,9.0,42.9,2023-10-27
+E0150,63,Female,High School,16,IT,Manager,108135.0,7255.0,7.0,35.5,2023-10-28
+E0151,27,Male,High School,9,IT,Senior,,,1.0,44.0,2023-10-29
+E0152,49,Female,PhD,16,HR,Senior,60786.0,10446.0,8.0,,2023-10-30
+E0153,49,Male,Master,19,Operations,Senior,,2030.0,4.0,39.4,2023-10-31
+E0154,41,Female,Bachelor,23,Finance,Mid,93169.0,3680.0,3.0,,2023-11-01
+E0155,51,Male,PhD,4,Finance,Senior,50808.0,160.0,7.0,48.2,2023-11-02
+E0156,32,Male,Master,33,Finance,Mid,83280.0,7793.0,3.0,,2023-11-03
+E0157,49,Female,Bachelor,5,Finance,Junior,81957.0,3996.0,8.0,43.5,2023-11-04
+E0158,46,Male,Bachelor,1,HR,Mid,63799.0,5619.0,6.0,50.5,2023-11-05
+E0159,60,Female,High School,12,Marketing,Mid,97466.0,3187.0,5.0,,2023-11-06
+E0160,54,Male,High School,10,Operations,Senior,67692.0,4020.0,4.0,55.0,2023-11-07
+E0161,22,Female,Master,22,IT,Junior,,8670.0,8.0,44.8,2023-11-08
+E0162,48,Male,Bachelor,15,Marketing,Junior,52632.0,7083.0,8.0,33.2,2023-11-09
+E0163,34,Female,Bachelor,30,Finance,Junior,,,1.0,45.8,2023-11-10
+E0164,62,Male,PhD,10,Marketing,Junior,83279.0,7303.0,9.0,43.9,2023-11-11
+E0165,24,Female,Master,15,Operations,Senior,75771.0,7370.0,5.0,48.4,2023-11-12
+E0166,60,Male,High School,7,IT,Junior,71083.0,3826.0,4.0,,2023-11-13
+E0167,27,Female,PhD,3,IT,Mid,56408.0,593.0,6.0,,2023-11-14
+E0168,29,Female,PhD,39,Operations,Mid,,,6.0,35.9,2023-11-15
+E0169,48,Female,PhD,3,Operations,Mid,,978.0,2.0,41.0,2023-11-16
+E0170,30,Male,High School,24,Finance,Senior,35716.0,8493.0,8.0,37.7,2023-11-17
+E0171,58,Female,Master,2,IT,Mid,88554.0,9014.0,7.0,39.1,2023-11-18
+E0172,54,Male,Bachelor,31,Marketing,Senior,86502.0,9759.0,1.0,44.9,2023-11-19
+E0173,63,Female,Master,2,HR,Mid,73844.0,0.0,5.0,50.3,2023-11-20
+E0174,45,Male,PhD,26,HR,Mid,57801.0,8214.0,6.0,,2023-11-21
+E0175,36,Female,Master,28,Operations,Manager,77561.0,11637.0,4.0,36.0,2023-11-22
+E0176,53,Male,Master,31,Finance,Junior,108021.0,8336.0,2.0,44.2,2023-11-23
+E0177,53,Male,Master,18,HR,Junior,127889.0,0.0,4.0,48.0,2023-11-24
+E0178,45,Female,Master,20,IT,Senior,30000.0,10305.0,1.0,39.0,2023-11-25
+E0179,62,Male,Bachelor,4,Operations,Junior,54527.0,5125.0,7.0,41.3,2023-11-26
+E0180,33,Male,Bachelor,17,Marketing,Senior,52956.0,4303.0,2.0,,2023-11-27
+E0181,60,Female,Bachelor,27,Operations,Mid,105663.0,6353.0,2.0,38.1,2023-11-28
+E0182,23,Male,Master,21,Marketing,Manager,30000.0,1853.0,9.0,,2023-11-29
+E0183,24,Male,High School,20,Operations,Senior,77846.0,5008.0,5.0,41.4,2023-11-30
+E0184,58,Male,Bachelor,5,Operations,Mid,,,2.0,44.1,2023-12-01
+E0185,38,Female,Bachelor,0,Operations,Manager,,,9.0,,2023-12-02
+E0186,23,Male,Bachelor,4,Marketing,Mid,102526.0,5175.0,9.0,39.8,2023-12-03
+E0187,23,Female,Master,11,Marketing,Manager,74138.0,5269.0,1.0,45.6,2023-12-04
+E0188,49,Male,Master,25,Operations,Junior,30000.0,1456.0,3.0,40.1,2023-12-05
+E0189,44,Male,Bachelor,33,HR,Mid,50653.0,4550.0,4.0,50.6,2023-12-06
+E0190,58,Male,PhD,13,Finance,Junior,53390.0,97.0,7.0,,2023-12-07
+E0191,53,Female,Bachelor,25,Finance,Mid,31839.0,8067.0,10.0,43.1,2023-12-08
+E0192,54,Male,Bachelor,26,Finance,Junior,93865.0,0.0,4.0,46.7,2023-12-09
+E0193,22,Male,Master,8,Marketing,Senior,30000.0,7565.0,2.0,34.9,2023-12-10
+E0194,40,Female,Bachelor,25,Marketing,Senior,114133.0,7938.0,7.0,33.2,2023-12-11
+E0195,23,Male,Bachelor,21,HR,Manager,,,6.0,34.4,2023-12-12
+E0196,47,Female,Master,29,Finance,Junior,55373.0,5261.0,3.0,48.3,2023-12-13
+E0197,53,Female,Bachelor,16,Finance,Mid,73212.0,7750.0,6.0,39.2,2023-12-14
+E0198,27,Male,Bachelor,25,Operations,Mid,,,6.0,54.8,2023-12-15
+E0199,53,Female,Bachelor,35,Marketing,Mid,87546.0,1440.0,5.0,39.2,2023-12-16
+E0200,25,Male,Bachelor,0,Finance,Mid,,9592.0,4.0,42.9,2023-12-17

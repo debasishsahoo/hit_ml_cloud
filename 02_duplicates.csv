@@ -1,0 +1,28 @@
+Order_ID,Customer_ID,Customer_Name,Product,Quantity,Price,Order_Date,Status
+1001,C001,John Smith,Laptop,1,1200.0,2023-01-15,Completed
+1002,C002,Sarah Johnson,Mouse,2,25.0,2023-01-16,Completed
+1003,C003,Mike Williams,Keyboard,1,75.0,2023-01-17,Pending
+1004,C004,Emma Brown,Monitor,1,350.0,2023-01-18,Shipped
+1005,C005,David Jones,Headphones,3,80.0,2023-01-19,Completed
+1006,C006,Lisa Garcia,Webcam,1,120.0,2023-01-20,Pending
+1007,C007,Robert Miller,Speaker,2,150.0,2023-01-21,Shipped
+1008,C008,Jennifer Davis,USB Cable,5,10.0,2023-01-22,Completed
+1009,C009,William Rodriguez,HDMI Cable,2,15.0,2023-01-23,Pending
+1010,C010,Mary Martinez,Printer,1,250.0,2023-01-24,Shipped
+1002,C002,Sarah Johnson,Mouse,2,25.0,2023-01-16,Completed
+1011,C011,James Hernandez,Scanner,1,180.0,2023-01-25,Completed
+1012,C012,Patricia Lopez,Microphone,1,95.0,2023-01-26,Pending
+1004,C004,Emma Brown,Monitor,1,350.0,2023-01-18,Shipped
+1013,C013,Richard Gonzalez,Router,1,110.0,2023-01-27,Completed
+1014,C014,Linda Wilson,Switch,2,90.0,2023-01-28,Pending
+1015,C015,Thomas Anderson,Tablet,1,450.0,2023-01-29,Shipped
+1016,C016,Nancy Taylor,Charger,3,30.0,2023-01-30,Completed
+1017,C017,Charles Moore,Battery,4,20.0,2023-01-31,Pending
+1018,C018,Betty Jackson,Camera,1,380.0,2023-02-01,Shipped
+1019,C019,Steven White,Laptop,1,1200.0,2023-02-02,Completed
+1020,C020,Dorothy Harris,Desk Lamp,1,45.0,2023-02-03,Pending
+1021,C001,John Smith,Laptop,1,1200.0,2023-02-04,Completed
+1008,C008,Jennifer Davis,USB Cable,5,10.0,2023-01-22,Completed
+1022,C021,Paul Martin,Phone,2,650.0,2023-02-05,Shipped
+1001,C001,John Smith,Laptop,1,1200.0,2023-01-15,Completed
+1006,C006,Lisa Garcia,Webcam,1,120.0,2023-01-20,Pending
